@@ -60,7 +60,9 @@ cd cyber-threat
 ```
 
 3. Run :
+```bash
 python manage.py runserver
+```
    
 
 ## 📊 Results
