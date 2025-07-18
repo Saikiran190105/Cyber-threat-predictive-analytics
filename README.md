@@ -72,11 +72,6 @@ The best-performing model achieved an accuracy of **XX%** on the test data (upda
 - ROC-AUC Curve
 - Classification Report
 
-## ✅ Future Improvements
-
-- Integrate real-time data streams for threat detection
-- Build a web dashboard for threat monitoring
-- Implement deep learning models for better precision
 
 ## 👨‍💻 Author
 
